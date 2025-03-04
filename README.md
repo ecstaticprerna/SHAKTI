@@ -21,11 +21,13 @@ _1. Data Preprocessing & Cleaning_
 Handling missing values and duplicate records
 Converting categorical variables using Label Encoding & One-Hot Encoding
 Normalizing numerical features using StandardScaler
+
 _2. Exploratory Data Analysis (EDA) & Insights_
 Understanding attrition trends across departments, salaries, and job roles
 Visualizations using Matplotlib, Seaborn, and Power BI/Tableau
 Correlation heatmaps to find relationships between features
 Employee segmentation based on job satisfaction and workload
+
 _3. Machine Learning Modeling_
 Multiple models are trained and compared for performance to select the best one:
 Baseline Model: Logistic Regression
@@ -33,19 +35,26 @@ Tree-Based Models: Random Forest, Decision Tree
 Boosting Models: XGBoost
 Hyperparameter Tuning using GridSearchCV for optimization
 Model Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC Curve
+
 _4. Feature Importance & Explainability_
 SHAP (SHapley Additive Explanations) for feature importance analysis
 Permutation importance to understand key attrition drivers
+
 _5. Interactive Dashboard & Visualization_
 Power BI / Tableau / Streamlit Dashboard
 Key metrics like Attrition Rate, Department-wise Turnover, Salary-Attrition Trends
 Model predictions visualized with probability scores
+
 _Results & Insights (To Be Updated After Implementation)_
 [Placeholder for Final Results: Will include key takeaways, top features affecting attrition, model performance comparison, and business recommendations.]
 
 # Final Deliverables
 Cleaned dataset (HR_Employee_Cleaned.csv)
+
 EDA Report with visual insights (EDA_Report.pdf)
+
 Trained ML model (Retention360_Model.pkl)
+
 Dashboard for HR professionals (Power BI / Tableau / Streamlit)
+
 Final Report & Presentation (PDF & PPT)
