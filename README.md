@@ -1,5 +1,5 @@
-# Retention360
-Retention360: The Science of Workforce Stability is a data-driven project that analyzes employee attrition trends and predicts workforce turnover using machine learning. By using HR analytics, visualization, and predictive modeling, it provides actionable insights to enhance employee retention strategies and improve organizational stability. 
+# SHAKTI
+SHAKTI (Strategic Human Attrition Knowledge Through Insights): The Science of Workforce Stability is a data-driven project that analyzes employee attrition trends and predicts workforce turnover using machine learning. By using HR analytics, visualization, and predictive modeling, it provides actionable insights to enhance employee retention strategies and improve organizational stability. 
 
 Employee attrition is a critical challenge for organizations, impacting productivity, morale, and operational costs. Retention360 is a comprehensive HR analytics project designed to predict employee turnover and provide actionable insights using machine learning. By leveraging the IBM HR Analytics Employee Attrition Dataset, this project identifies key factors influencing employee retention and helps HR professionals make data-driven decisions to improve workforce stability.
 
@@ -33,6 +33,7 @@ Multiple models are trained and compared for performance to select the best one:
 Baseline Model: Logistic Regression
 Tree-Based Models: Random Forest, Decision Tree
 Boosting Models: XGBoost
+Advanced ML Models: Multi-Layer Perceptron, Support-Vector Machines
 Hyperparameter Tuning using GridSearchCV for optimization
 Model Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC Curve
 
