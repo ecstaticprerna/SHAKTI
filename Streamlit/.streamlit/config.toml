@@ -1,0 +1,6 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+# If you ever need larger file uploads:
+# maxUploadSize = 400  # in MB
